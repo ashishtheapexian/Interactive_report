@@ -19,7 +19,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ashishtheapexian/Interactive_report"
+		"url": "https://github.com/ashishtheapexian/Interactive_report.git"
 	},
 	"oracle": {
 		"versions": [
