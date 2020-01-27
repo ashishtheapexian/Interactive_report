@@ -14,6 +14,8 @@ It never runs query twise when shich report view
 # Settings
 Create dynamic action on report refresh.
 
+https://raw.githubusercontent.com/ashishtheapexian/Interactive_report/master/Preview.gif
+
 # Demo
 
 Demo is available [here](https://apex.oracle.com/pls/apex/f?p=93690:6:). 
