@@ -7,6 +7,10 @@
         "Interactive Report",
         "Row View"
     ],
+	 "bugs" : {
+    "url" : "https://github.com/ashishtheapexian/Interactive_report/issues",
+    "email" : "ashishk392@gmail.com"
+  },
     "homepage": "https://www.ashishsahay.com",
     "license": "MIT",
     "author": {
@@ -31,7 +35,8 @@
             "plugin": {
                 "internalName": "INTERACTIVE_REPORT_ROW_VIEW",
                 "type": "Dynamic Action",
-                "demo": "https://apex.oracle.com/pls/apex/f?p=93690:6::::::"
+                "demo": "https://apex.oracle.com/pls/apex/f?p=93690:6::::::",
+				"previewImage" : "https://raw.githubusercontent.com/ashishtheapexian/Interactive_report/master/Preview.gif"
             }
         }
     }
