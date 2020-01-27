@@ -1,43 +1,33 @@
 {
-	"name": "Smooth row view Interactive report Plugin",
-	"version": "1.0",
-	"description": "Oracle APEX Plugin for displaying row view smoothly. It never runs query twise when shich report view.",
-	"keywords": [
-		"Dynamic Action",
-		"Interactive Report",
-		"Row View"
-	],
-	"bugs": {
-		"url": "https://github.com/ashishtheapexian/Interactive_report/issues",
-		"email": "ashishk392@gmail.com"
-	},
-	"homepage": "https://www.ashishsahay.com",
-	"license": "MIT",
-	"author": {
-		"name": "Ashish Sahay",
-		"email": "ashishk392@gmail.com"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ashishtheapexian/Interactive_report.git"
-	},
-	"oracle": {
-		"versions": [
-			"11.2.0.1",
-			"12.1.0.1"
-		],
-		"apex": {
-			"versions": [
-				"5.1.0",
-				"18.1.0",
-				"19.2.0"
-			],
-			"plugin": {
-				"internalName": "INTERACTIVE_REPORT_ROW_VIEW",
-				"type": "Dynamic Action",
-				"demo": "https://apex.oracle.com/pls/apex/f?p=93690:6::::::",
-				"previewImage": "https://raw.githubusercontent.com/ashishtheapexian/Interactive_report/master/Preview.gif"
-			}
-		}
-	}
+  "name" : "Smooth row view Interactive report Plugin",
+  "version" : "1.0",
+  "description" : "Oracle APEX Plugin for displaying row view smoothly. It never runs query twise when shich report view.",
+  "keywords" : ["PlugIn", "refresh","interactive report","Row View"],
+  "homepage" : "https://github.com/ashishtheapexian/Interactive_report.git",
+  "bugs" : {
+    "url" : "https://github.com/ashishtheapexian/Interactive_report/issues",
+    "email" : "ashishk392@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Ashish Sahay",
+    "email" : "ashishk392@gmail",
+    "url" : "https://www.ashishsahay.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ashishtheapexian/Interactive_report.git"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.1.0", "18.1.0", "19.2.0"],
+      "plugin" : {
+        "internalName" : "INTERACTIVE_REPORT_ROW_VIEW",
+        "type" : "dynamic action",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=93690",
+        "previewImage" : "https://raw.githubusercontent.com/ashishtheapexian/Interactive_report/master/Preview.gif"
+      }
+    }
+  }
 }
