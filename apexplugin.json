@@ -1,7 +1,7 @@
 {
   "name" : "Smooth row view Interactive report Plugin",
   "version" : "1.0",
-  "description" : "Oracle APEX Plugin for displaying row view smoothly. It never runs query twise when shich report view.",
+  "description" : "Oracle APEX Plugin for displaying row view smoothly. It never runs query twise when user switches report view to detail view or vise versa.",
   "keywords" : ["PlugIn", "refresh","interactive report","Row View"],
   "homepage" : "https://github.com/ashishtheapexian/Interactive_report.git",
   "bugs" : {
