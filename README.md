@@ -1,6 +1,6 @@
 # Smooth row view Interactive report Plugin
 Oracle APEX Plugin for displaying row view smoothly .
-
+<img src="https://raw.githubusercontent.com/ashishtheapexian/Interactive_report/master/Preview.gif">
 It never runs query twise when shich report view
 
 # Changelog
