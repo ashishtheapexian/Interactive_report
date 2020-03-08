@@ -24,3 +24,4 @@ Demo is available [here](https://apex.oracle.com/pls/apex/f?p=93690:6:).
 
  Minimal APEX version supported: 5.0 ,5.1  ,18.1  ,19.2.*   
 
+<a href="https://www.ashishsahay.com/2020/02/smooth-row-view-interactive-report.html">Blog</a>
