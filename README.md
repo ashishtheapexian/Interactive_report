@@ -14,7 +14,7 @@ It never runs query twise when shich report view
 # Settings
 Create dynamic action on report refresh.
 
-https://raw.githubusercontent.com/ashishtheapexian/Interactive_report/master/Preview.gif
+![https://blogs.ontoorsolutions.com/images/smooth_row_view/2.gif](Image 1)
 
 # Demo
 
@@ -24,4 +24,4 @@ Demo is available [here](https://apex.oracle.com/pls/apex/f?p=93690:6:).
 
  Minimal APEX version supported: 5.0 ,5.1  ,18.1  ,19.2.*   
 
-<a href="https://www.ashishsahay.com/2020/02/smooth-row-view-interactive-report.html">Blog</a>
+<a href="https://blogs.ontoorsolutions.com/post/smooth_row_view_ir/">Blog</a>
