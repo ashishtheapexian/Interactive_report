@@ -14,7 +14,7 @@ It never runs query twise when shich report view
 # Settings
 Create dynamic action on report refresh.
 
-![https://blogs.ontoorsolutions.com/images/smooth_row_view/2.gif](Image 1)
+![Image 1](https://blogs.ontoorsolutions.com/images/smooth_row_view/2.gif)
 
 # Demo
 
